@@ -10,3 +10,4 @@ EOM
 
 yum -y install puppet facter
 
+/etc/init.d/ntpd start
